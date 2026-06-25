@@ -1,3 +1,3 @@
 # first-repo
 My First Repo
-Author - Mohid Salman 
+Author - Mohid Salman Sabir
